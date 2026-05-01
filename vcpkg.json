@@ -1,0 +1,9 @@
+{
+  "name": "ai-overlay-cross",
+  "version": "1.0.0",
+  "dependencies": [
+    "websocketpp",
+    "asio",
+    "nlohmann-json"
+  ]
+}
